@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>App</Name>
+    <Assembly>Egyptian FLS code.dll</Assembly>
+    <ClientId>33516d8b-0c52-41fc-af39-0203499e11a5</ClientId>
+    <FullClassName>Egyptian_FLS_code.App</FullClassName>
+    <VendorId>MohamedAlbassel</VendorId>
+    <VendorDescription>Mohamed Albassel</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Assembly>Egyptian FLS code.dll</Assembly>
+    <ClientId>3faff4a7-394c-4e34-8ef8-b9fe40a6c0c5</ClientId>
+    <FullClassName>Egyptian_FLS_code.CMDFLS</FullClassName>
+    <Text>CMDFLS</Text>
+    <Description>""</Description>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <VendorId>MohamedAlbassel</VendorId>
+    <VendorDescription>Mohamed Albassel</VendorDescription>
+  </AddIn>
+</RevitAddIns>
