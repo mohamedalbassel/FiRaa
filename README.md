@@ -3,4 +3,4 @@ A machine learning model and application (FiRaa) is created as a Revit add-in wi
 # FiRaa Setup
 Copy the files in the following path: 
 C:\ProgramData\Autodesk\Revit\Addins\2020
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](D:\DAR-BIM STANDARD\ماجستير\BIM masters\Fire\FiRaa Add-in.jpg)
