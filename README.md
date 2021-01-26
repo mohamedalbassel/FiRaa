@@ -4,4 +4,8 @@ A machine learning model and application (FiRaa) is created as a Revit add-in wi
 Copy the files in the following path: 
 C:\ProgramData\Autodesk\Revit\Addins\2020
 # Add Revit Families
-please add (FR_1 Hour) & (FR_2 Hour) & (FR_3 Hour) in Revit model
+FiRaa can load the crystal families from mentioned path automatically, or you can add (FR_1 Hour) & (FR_2 Hour) & (FR_3 Hour) in Revit model
+# Add Revit Parameter to ROOM category
+Add parameters "Fire_Classification", "Fire_Occupant Load Factor", "fire rating"
+# Add Revit Parameter to Project information
+Add parameters "Building Type"
