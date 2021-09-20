@@ -9,3 +9,6 @@ FiRaa can load the crystal families from mentioned path automatically, or you ca
 Add parameters: "Fire_Classification", "Fire_Occupant Load Factor", "fire rating"
 # Add Revit Parameter to (Project information)
 Add parameter "Building Type"
+# Grasshopper plug-in
+Copy the file (FiRaa.gha) in the following path: 
+C:\Users\Username\AppData\Roaming\Grasshopper\Libraries
